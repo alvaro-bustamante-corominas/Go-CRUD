@@ -15,7 +15,7 @@ This is a simple CRUD (Create, Read, Update, Delete) application written in Go. 
 1. Clone the repository:
 
     ```bash
-    https://github.com/alvaro-bustamante-corominas/Go-CRUD.git
+    git clone https://github.com/alvaro-bustamante-corominas/Go-CRUD.git
     ```
 
 2. Navigate to the project directory:
